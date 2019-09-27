@@ -1,0 +1,28 @@
+title: User Interface
+description: wg-ui-and-a11y Working Group is responsible for AMP's visual components & interactions and AMP's overall accessibility and user experience (including published guidelines for AMP UX). The UI Working Group also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility.
+facilitator:
+  login: nainar
+  name: Naina Raisinghani
+members:
+  - login: nainar
+    name: Naina Raisinghani
+  - login: aghassemi
+    name: Ali Ghassemi
+  - login: alanorozco
+    name: Alan Orozco
+  - login: andrewwatterson
+    name: Andrew Watterson
+  - login: cathyxz
+    name: Cathy Zhu
+  - login: cvializ
+    name: Carlos Vializ
+  - login: danielcyoung
+    name: Daniel Young
+  - login: joneleven
+    name: Jonathan Leventhal
+  - login: kristoferbaxter
+    name: Kristofer Baxter
+  - login: sparhami
+    name: Sepand Parhami
+  - login: wassgha
+    name: Wassim Gharbi
