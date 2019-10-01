@@ -27,7 +27,15 @@ members:
   - login: wassgha
     name: Wassim Gharbi
 communication:
-  - slack: UI Working Group members will use `#wg-ui-and-a11y` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group.
-  - status_updates: UI Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
-  - announcements: UI Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
-  - roadmap: UI Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
+  - channel: slack
+    name: Slack
+    content: "UI Working Group members will use `#wg-ui-and-a11y` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in UI working group."
+  - channel: status_updates
+    name: Status Updates
+    content: "UI Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+  - channel: announcements
+    name: Announcements and Notices
+    content: "UI Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
+  - channel: roadmap
+    name: Quarterly Roadmap
+    content: "UI Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository."
